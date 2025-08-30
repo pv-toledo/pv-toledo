@@ -1,3 +1,16 @@
+Hi 👋 My name is Paulo Vinícius
+===============================
+
+Full Stack Develper
+
+I hold a Bachelor's and a Master's degree in Metallurgical Engineering from the Universidade Federal Fluminense (UFF). Throughout my academic and professional journey, I have always been involved with programming in some capacity, which led me to discover my passion for software development. I am now channeling this passion into transitioning my career and am currently studying to become a Full Stack Developer.
+
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ✉️  You can contact me at [pvvtoledo@gmail.com](mailto:pvvtoledo@gmail.com)
+* 🚀  I'm currently working on Freelancing for companies as a full stack developer
+* 👥  I'm looking to collaborate on projects that solve real-world problems and prioritize a great user experience
+* 💬  Ask me about Beyond coding, I enjoy music, sports, and I'm an active CrossFit practitioner.
+
 ### Skills
 
 <p align="left">
