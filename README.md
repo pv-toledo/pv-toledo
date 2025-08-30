@@ -1,7 +1,7 @@
 Hi 👋 My name is Paulo Vinícius
 ===============================
 
-Full Stack Develper
+Full Stack Developer
 
 I hold a Bachelor's and a Master's degree in Metallurgical Engineering from the Universidade Federal Fluminense (UFF). Throughout my academic and professional journey, I have always been involved with programming in some capacity, which led me to discover my passion for software development. I am now channeling this passion into transitioning my career and am currently studying to become a Full Stack Developer.
 
