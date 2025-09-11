@@ -9,7 +9,7 @@ I hold a Bachelor's and a Master's degree in Metallurgical Engineering from the 
 * ✉️  You can contact me at [pvvtoledo@gmail.com](mailto:pvvtoledo@gmail.com)
 * 🚀  I'm currently working on Freelancing for companies as a full stack developer
 * 👥  I'm looking to collaborate on projects that solve real-world problems and prioritize a great user experience
-* 💬  Ask me about Beyond coding, I enjoy music, sports, and I'm an active CrossFit practitioner.
+* 💬  Beyond coding, I enjoy music, sports, and I'm an active CrossFit practitioner.
 
 ### Skills
 
