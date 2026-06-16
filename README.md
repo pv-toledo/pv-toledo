@@ -31,7 +31,7 @@ Currently based in China, working in large-scale industrial production at CSN. P
 **MSc in Metallurgical Engineering** — Universidade Federal Fluminense (UFF), 2022–2024
 Focus: thermodynamic and kinetic modeling of steel desulfurization, in partnership with Gerdau Ouro Branco
 
-**BEng in Metallurgical Engineering** — Universidade Federal Fluminense (UFF), 2016–2022
+**Bachelor in Metallurgical Engineering** — Universidade Federal Fluminense (UFF), 2016–2022
 
 ---
 
