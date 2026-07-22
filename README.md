@@ -16,7 +16,7 @@ Currently based in Volta Redonda, Brazil (open to remote), working on large-scal
 Full-stack web app that computes the **lowest-cost scrap mix** for an Electric Arc Furnace charge, subject to real steelmaking chemistry and metallic yield constraints. FastAPI backend with a PuLP/CBC linear-programming solver; Next.js + TypeScript frontend with interactive constraint editing.
 `FastAPI` · `PuLP` · `linear programming` · `Next.js` · `TypeScript`
 
-### 🌡️ [Ladle Furnace Temperature Prediction](https://github.com/pv-toledo) *(ML)*
+### 🌡️ [Ladle Furnace Temperature Prediction](https://github.com/pv-toledo/ladle-furnace-ml) *(ML)*
 Machine-learning model predicting liquid steel temperature at the ladle furnace from a public industrial dataset, with feature engineering guided by secondary metallurgy fundamentals and feature-importance analysis interpreted against process knowledge.
 `Python` · `scikit-learn` · `feature engineering`
 
