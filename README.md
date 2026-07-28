@@ -16,8 +16,6 @@ Before transitioning into software engineering, I earned an MSc in Metallurgical
 
 ## Featured Projects
 
-## Featured Projects
-
 ### ⚡ [EAF Optimizer](https://github.com/pv-toledo/eaf-optimizer) · [Live Demo](https://eaf-optimizer.vercel.app)
 
 Full-stack optimization platform that computes the lowest-cost material mix under real production constraints. Built with a FastAPI backend, a Next.js frontend, and a linear programming engine, featuring authentication, user-specific material catalogs, optimization history, and interactive parameter configuration.
