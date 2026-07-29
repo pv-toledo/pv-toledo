@@ -24,7 +24,7 @@ Full-stack optimization platform that computes the lowest-cost material mix unde
 
 ---
 
-### 🏡 [ZOH Marketplace](https://zoh-marketplace.vercel.app) · [Repository](https://github.com/peguimasid/zoh-marketplace)
+### 🏡 [ZOH Marketplace](https://zoh-marketplace.vercel.app)
 
 Luxury real estate marketplace for buying and renting properties. The platform includes location-based search, property listings, user authentication, and tools for property owners to publish and manage listings.
 
