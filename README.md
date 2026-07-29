@@ -100,6 +100,22 @@ Machine learning project that predicts liquid steel temperature using industrial
 **Also:** SQLAlchemy · Supabase · REST APIs · Docker · pandas · NumPy · SciPy · scikit-learn · XGBoost · Mathematical Optimization · Linear Programming · Power BI · Thermo-Calc
 
 ---
+ 
+## Experience
+ 
+**Process Engineer — Companhia Siderúrgica Nacional (CSN)** | 2025 – Present
+ 
+Support technical and sourcing decisions for raw materials in ironmaking, combining process engineering with data analysis and reporting.
+ 
+**International Technical Assignment — Coking Plant, China** | 2025 - 2026
+ 
+Evaluated coke quality against ASTM and GB international standards, working directly with plant operations in a cross-cultural, non-English-speaking environment.
+ 
+**Engineering Intern — ArcelorMittal Brazil (Electric Meltshop)** | 2019–2021
+ 
+Built KPI monitoring systems and Power BI dashboards for process tracking.
+
+---
 
 ## Education
 
